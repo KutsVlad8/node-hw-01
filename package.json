@@ -1,0 +1,27 @@
+{
+  "name": "hw-01",
+  "version": "1.0.0",
+  "description": "node-hw-01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KutsVlad8/node-hw-01.git"
+  },
+  "author": "Kutsevych Vlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KutsVlad8/node-hw-01/issues"
+  },
+  "homepage": "https://github.com/KutsVlad8/node-hw-01#readme",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "nanoid": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
